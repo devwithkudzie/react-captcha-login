@@ -1,4 +1,4 @@
-# React reCAPTCHA Login Form
+# React CAPTCHA Login
 
 A modern, secure login form built with React and Google reCAPTCHA v2. This project demonstrates how to implement a user authentication form with CAPTCHA verification to prevent automated bot submissions.
 
